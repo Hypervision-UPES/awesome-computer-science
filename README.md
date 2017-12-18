@@ -22,7 +22,7 @@ Feel free to make a Pull Request if want to contribute.
 	- [Python](#python)
 	- [JavaScript](#javascript)
 	- [PHP](#php)
-- [Competitive Coding](competitive-coding)
+- [Competitive Coding](#competitive-coding)
 
 ## Github Usage
 

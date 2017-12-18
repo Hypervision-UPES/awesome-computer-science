@@ -27,6 +27,7 @@ Feel free to make a Pull Request if want to contribute.
 ## Github Usage
 
 - [Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Github Tutorial For Beginners Udacity free Course](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
 - [GitHub Guides](https://guides.github.com/)
 
 

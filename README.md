@@ -12,7 +12,7 @@ This is a curated list of computer science related courses, resources, libraries
 Feel free to make a Pull Request if want to contribute.
 
 ## Table of Contents
---------
+
 - [Github Usage](#github-usage)
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
@@ -25,26 +25,24 @@ Feel free to make a Pull Request if want to contribute.
 - [Competitive Coding](competitive-coding)
 
 ## Github Usage
---------
 
 - [Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 - [GitHub Guides](https://guides.github.com/)
 
 
 ## Algorithms
---------
+
 - [MIT 6.006 Introduction to Algorithms (Basic to Expert)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Geeks for Geeks - Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [Khan Academy - Algorithms (Basic)](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [edX - Algorithms (Basic to Expert)](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x-0)
 
 ## Data Structures
---------
+
 - [mycodeschool(Youtube) - Data structures (Basic)](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [Geeks for Geeks - Data Structures (Basic to Intermediate)](http://www.geeksforgeeks.org/data-structures/)
 
 ## Programming Languages Resources
---------
 ### C++
 
 - [CPlusPlus](http://www.cplusplus.com/)
@@ -99,7 +97,6 @@ Feel free to make a Pull Request if want to contribute.
 	- [Symphony Framework](https://symfony.com/)
 
 ## Competitive Coding
---------	
 
 ### Platforms
 - [HackerEarth (Basic to Intermediate)](https://www.hackerearth.com/)

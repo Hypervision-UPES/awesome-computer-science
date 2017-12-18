@@ -17,6 +17,7 @@ Feel free to make a Pull Request if want to contribute.
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
 - [Programming Languages Resources](#programming-languages-resources)
+	- [C](#c)
 	- [C++](#c++)
 	- [Java](#java)
 	- [Python](#python)
@@ -43,6 +44,13 @@ Feel free to make a Pull Request if want to contribute.
 - [Geeks for Geeks - Data Structures (Basic to Intermediate)](http://www.geeksforgeeks.org/data-structures/)
 
 ## Programming Languages Resources
+
+### C
+
+- [learn-c.org (Basic to Intermediate)](http://www.learn-c.org/)
+- [Learn C Programming (Basic)](https://www.programiz.com/c-programming)
+- [C Programming Language Tutorial (Basic)](https://www.javatpoint.com/c-programming-language-tutorial)
+- [C Programming Tutorial - Youtube Video (Basic to Intermediate)](https://www.youtube.com/watch?v=-CpG3oATGIs)
 ### C++
 
 - [CPlusPlus](http://www.cplusplus.com/)

@@ -62,6 +62,7 @@ Feel free to make a Pull Request if want to contribute.
 ### Python
 
 - [LearnPython.org (Basic to Intermediate)](https://www.learnpython.org/)
+- [Python 3 for Beginners (Basic to Intermediate)](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 - [Code Academy - Learn Python (Basic)](https://www.codecademy.com/learn/learn-python)
 - [Python 3.x Documentation](https://docs.python.org/3/)
 

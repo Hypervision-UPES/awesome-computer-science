@@ -78,8 +78,10 @@ Feel free to make a Pull Request if want to contribute.
 	- [Django Web Framework](https://www.djangoproject.com/)
 	- [NumPy](http://www.numpy.org/)
 	- [Matplotlib](https://matplotlib.org/)
+	- [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 	- [Scikit-Learn](http://scikit-learn.org/)
 	- [Tensorflow](https://www.tensorflow.org/)
+	
 
 ### JavaScript
 

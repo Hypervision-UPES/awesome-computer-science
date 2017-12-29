@@ -79,6 +79,7 @@ Feel free to make a Pull Request if want to contribute.
 	- [NumPy](http://www.numpy.org/)
 	- [Matplotlib](https://matplotlib.org/)
 	- [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+	- [Pandas Video Tutorials](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 	- [Scikit-Learn](http://scikit-learn.org/)
 	- [Tensorflow](https://www.tensorflow.org/)
 	

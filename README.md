@@ -38,6 +38,7 @@ Feel free to make a Pull Request if want to contribute.
 - [Geeks for Geeks - Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [Khan Academy - Algorithms (Basic)](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [edX - Algorithms (Basic to Expert)](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x-0)
+- [6.006: Introduction to Algorithms - courses - MIT  ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiVpqvH2L7kAhW87HMBHThFCA4QFjABegQIABAB&url=https%3A%2F%2Fcourses.csail.mit.edu%2F6.006%2Ffall11%2Fnotes.shtml&usg=AOvVaw3L9KbfqdEs6QaaBsV8ffAO)https://courses.csail.mit.edu/6.006/fall11/notes.shtml
 
 ## Data Structures
 

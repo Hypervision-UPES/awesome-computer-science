@@ -38,6 +38,7 @@ Feel free to make a Pull Request if want to contribute.
 - [Geeks for Geeks - Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [Khan Academy - Algorithms (Basic)](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [edX - Algorithms (Basic to Expert)](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x-0)
+- [6.006: Introduction to Algorithms - courses - MIT  ](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
 
 ## Data Structures
 
@@ -71,6 +72,7 @@ Feel free to make a Pull Request if want to contribute.
 
 - [LearnPython.org (Basic to Intermediate)](https://www.learnpython.org/)
 - [Python 3 for Beginners (Basic to Intermediate)](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Python Notes(Basic to Advance)](http://thomas-cokelaer.info/tutorials/python/index.html)
 - [Code Academy - Learn Python (Basic)](https://www.codecademy.com/learn/learn-python)
 - [Python 3.x Documentation](https://docs.python.org/3/)
 
@@ -108,6 +110,9 @@ Feel free to make a Pull Request if want to contribute.
 	- [Zend Framework](https://framework.zend.com/)
 	- [CakePHP Framework](https://cakephp.org/)
 	- [Symphony Framework](https://symfony.com/)
+
+### ANDROID
+- [Android Developer(Official Guide)](https://developer.android.com/guide)
 
 ## Competitive Coding
 
